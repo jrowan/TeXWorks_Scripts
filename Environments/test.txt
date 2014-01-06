@@ -1,0 +1,13 @@
+// TeXworksScript
+
+// Title: Align*
+// Shortcut: Ctrl+Shift+Q
+// Description: Encloses the current selection in an align* envrinoment
+// Author: James Rowan
+// Version: 0.4
+// Date: 2013-14-07
+
+// Script-Type: standalone
+
+// Context: TeXDocument
+prompt("WHERE ARE YOU FROM?");
