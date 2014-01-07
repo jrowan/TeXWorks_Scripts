@@ -1,7 +1,7 @@
 // TeXworksScript
 // Title: Toggle Bold
 // Shortcut: Alt+Shift+B
-// Description: Encloses the current selection in {\bf }
+// Description: Encloses the current selection in {\bf }.  Useful for vectors or other boldfaced math items.
 // Author: James Rowan
 // Version: 0.3
 // Date: 2013-07-23
